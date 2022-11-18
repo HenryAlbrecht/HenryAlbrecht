@@ -1,15 +1,17 @@
 
 <h1 align="left"> Olá, sou Henrique, um dev iniciante </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HenryAlbrecht&color=yellow" alt="Profile views" /> </p><br>
-<img align="right" display="inline-block" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=HenryAlbrecht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=HenryAlbrecht&color=yellow" alt="Profile views" /></p>
+<div>
+	<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryAlbrecht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <br>
 <div>
-
+	
 - ⏳ Atualmente estudando Front-end, com Vue.JS
 
 - 📚 Buscando ser fluente em Inglês
 
-</div>
+</div><br>
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
