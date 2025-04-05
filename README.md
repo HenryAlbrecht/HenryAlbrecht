@@ -7,7 +7,7 @@
 <br>
 <div>
 	
-- ⏳ Atualmente estudando Front-end, com Vue.JS
+- ⏳ Atualmente estudando Front-end, com Next.JS e TypeScript
 
 - 📚 Buscando ser fluente em Inglês
 
